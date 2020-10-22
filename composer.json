@@ -1,0 +1,13 @@
+{
+    "name": "yusuf/twig",
+    "description": "Twig",
+    "authors": [
+        {
+            "name": "yusuf celik",
+            "email": "erguculu@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
